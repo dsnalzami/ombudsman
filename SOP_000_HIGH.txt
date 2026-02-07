@@ -1,0 +1,278 @@
+TITLE: Penerimaan Pengaduan Masyarakat
+CATEGORY: SOP
+QUALITY: HIGH
+DOC_ID: SOP_000
+================================================================================
+
+STANDAR OPERASIONAL PROSEDUR
+PENERIMAAN PENGADUAN MASYARAKAT
+
+Nomor SOP: OMB-SOP-100
+Tanggal Efektif: 01 Februari 2024
+Revisi: 01
+Halaman: 1 dari 5
+
+=============================================================================
+1. TUJUAN
+=============================================================================
+
+Standar Operasional Prosedur ini bertujuan untuk menerima dan mendokumentasikan pengaduan secara efektif, efisien, dan akuntabel sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+
+=============================================================================
+2. RUANG LINGKUP
+=============================================================================
+
+SOP ini mencakup seluruh tahapan proses penerimaan yang dilakukan oleh petugas Ombudsman Republik Indonesia, mulai dari tahap persiapan hingga tahap pelaporan dan evaluasi.
+
+=============================================================================
+3. DEFINISI DAN ISTILAH
+=============================================================================
+
+Dalam SOP ini yang dimaksud dengan:
+
+3.1 Ombudsman
+    Ombudsman Republik Indonesia adalah lembaga negara yang mempunyai kewenangan mengawasi penyelenggaraan pelayanan publik.
+
+3.2 Pengaduan
+    Pengaduan adalah penyampaian keluhan yang disampaikan oleh setiap orang kepada Ombudsman atas dugaan maladministrasi dalam penyelenggaraan pelayanan publik.
+
+3.3 Pelapor
+    Pelapor adalah orang perseorangan, kelompok orang, atau badan hukum yang menyampaikan laporan kepada Ombudsman.
+
+3.4 Terlapor
+    Terlapor adalah penyelenggara pelayanan publik yang dilaporkan kepada Ombudsman.
+
+3.5 Maladministrasi
+    Maladministrasi adalah perilaku atau perbuatan melawan hukum, melampaui wewenang, menggunakan wewenang untuk tujuan lain, kelalaian atau pengabaian kewajiban hukum dalam penyelenggaraan pelayanan publik.
+
+3.6 Investigasi
+    Investigasi adalah rangkaian kegiatan pemeriksaan dan penelaahan yang dilakukan Ombudsman untuk menemukan fakta dan kebenaran atas laporan yang diterima.
+
+=============================================================================
+4. DOKUMEN TERKAIT
+=============================================================================
+
+4.1 Undang-Undang Nomor 37 Tahun 2008 tentang Ombudsman Republik Indonesia
+4.2 Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik
+4.3 Peraturan Presiden Nomor 76 Tahun 2013 tentang Pengelolaan Pengaduan Pelayanan Publik
+4.4 Peraturan Ombudsman Nomor 26 Tahun 2017 tentang Tata Cara Penerimaan, Pemeriksaan, dan Penyelesaian Laporan
+4.5 Formulir Penerimaan Pengaduan (Form OMB-01)
+4.6 Checklist Verifikasi Dokumen (Form OMB-02)
+4.7 Berita Acara Investigasi (Form OMB-03)
+
+=============================================================================
+5. PROSEDUR PELAKSANAAN
+=============================================================================
+
+5.1 TAHAP PERSIAPAN
+
+    5.1.1 Penyiapan Sumber Daya
+          a. Petugas penerimaan memastikan kesiapan personil yang kompeten
+          b. Menyiapkan formulir dan dokumen yang diperlukan
+          c. Memastikan ketersediaan sarana dan prasarana pendukung
+          d. Melakukan briefing kepada tim pelaksana
+          
+          Waktu: 1 hari kerja
+          Penanggung Jawab: Koordinator Unit
+    
+    5.1.2 Penyiapan Sistem Informasi
+          a. Memastikan sistem informasi pengaduan berfungsi dengan baik
+          b. Melakukan backup data secara berkala
+          c. Memastikan keamanan data dan informasi
+          d. Menyiapkan akses untuk petugas yang berwenang
+          
+          Waktu: Berkelanjutan
+          Penanggung Jawab: Administrator Sistem
+
+5.2 TAHAP PELAKSANAAN
+
+    5.2.1 Penerimaan Laporan
+          a. Menerima laporan dari masyarakat melalui berbagai saluran:
+             - Surat langsung
+             - Email ke pengaduan@ombudsman.go.id
+             - Aplikasi online SP4N-LAPOR
+             - Telepon hotline 138
+             - Tatap muka langsung
+          
+          b. Mencatat informasi dasar laporan:
+             - Identitas pelapor
+             - Identitas terlapor
+             - Uraian maladministrasi
+             - Bukti-bukti pendukung
+          
+          c. Memberikan nomor registrasi kepada pelapor
+          d. Memberikan tanda terima pengaduan
+          
+          Waktu: Maksimal 1 hari kerja sejak laporan diterima
+          Penanggung Jawab: Petugas Front Office
+    
+    5.2.2 Verifikasi Kelengkapan
+          a. Memeriksa kelengkapan persyaratan administratif:
+             - Identitas pelapor yang jelas dan dapat diverifikasi
+             - Identitas terlapor yang spesifik
+             - Uraian kronologis peristiwa yang jelas
+             - Bukti-bukti yang relevan dan memadai
+          
+          b. Menilai apakah laporan masuk dalam kewenangan Ombudsman
+          c. Mengklasifikasikan jenis maladministrasi yang dilaporkan:
+             - Penundaan berlarut
+             - Penyalahgunaan wewenang
+             - Penyimpangan prosedur
+             - Permintaan imbalan uang/jasa
+             - Tidak memberikan pelayanan
+             - Diskriminasi
+             - Kolusi
+             - Intimidasi
+          
+          d. Jika tidak lengkap, mengembalikan kepada pelapor dengan catatan kekurangan
+          e. Jika lengkap, meneruskan ke tahap berikutnya
+          
+          Waktu: Maksimal 7 hari kerja
+          Penanggung Jawab: Tim Verifikasi
+    
+    5.2.3 Penelaahan dan Analisis
+          a. Melakukan penelaahan mendalam terhadap:
+             - Substansi laporan
+             - Dokumen pendukung
+             - Peraturan perundang-undangan terkait
+             - Standar pelayanan yang berlaku
+          
+          b. Melakukan analisis untuk menentukan:
+             - Relevansi laporan dengan kewenangan Ombudsman
+             - Prioritas penanganan
+             - Metode investigasi yang akan digunakan
+             - Estimasi waktu penyelesaian
+          
+          c. Menyusun rencana investigasi yang meliputi:
+             - Ruang lingkup investigasi
+             - Metode dan teknik investigasi
+             - Tim investigasi
+             - Jadwal pelaksanaan
+             - Anggaran yang diperlukan
+          
+          Waktu: Maksimal 14 hari kerja
+          Penanggung Jawab: Tim Penelaah
+    
+    5.2.4 Pelaksanaan Investigasi
+          a. Melakukan pengumpulan data dan informasi melalui:
+             - Permintaan keterangan tertulis kepada terlapor
+             - Pemanggilan saksi untuk dimintai keterangan
+             - Pemeriksaan dokumen dan bukti fisik
+             - Kunjungan lapangan untuk verifikasi
+             - Klarifikasi dengan pihak-pihak terkait
+          
+          b. Mendokumentasikan seluruh proses investigasi:
+             - Berita acara pemeriksaan
+             - Notulensi wawancara
+             - Foto dan video dokumentasi
+             - Salinan dokumen pendukung
+          
+          c. Menjaga objektivitas dan independensi dalam investigasi
+          d. Memberikan kesempatan yang sama kepada semua pihak untuk memberikan keterangan
+          
+          Waktu: Maksimal 60 hari kerja (dapat diperpanjang 30 hari kerja dengan pemberitahuan)
+          Penanggung Jawab: Tim Investigasi
+
+5.3 TAHAP PELAPORAN
+
+    5.3.1 Penyusunan Laporan
+          a. Menyusun laporan hasil investigasi yang memuat:
+             - Ringkasan eksekutif
+             - Latar belakang kasus
+             - Uraian kronologis peristiwa
+             - Fakta-fakta yang ditemukan
+             - Analisis hukum dan kebijakan
+             - Kesimpulan
+             - Rekomendasi
+          
+          b. Melakukan quality control terhadap laporan
+          c. Mendapatkan validasi dari supervisor
+          d. Finalisasi laporan
+          
+          Waktu: Maksimal 14 hari kerja setelah investigasi selesai
+          Penanggung Jawab: Tim Pelaporan
+    
+    5.3.2 Penyampaian Laporan
+          a. Menyampaikan laporan kepada:
+             - Pelapor
+             - Terlapor
+             - Atasan terlapor
+             - Pihak terkait lainnya sesuai kebutuhan
+          
+          b. Memberikan penjelasan atas rekomendasi yang diberikan
+          c. Meminta konfirmasi penerimaan laporan
+          d. Mencatat tanggal penyampaian untuk keperluan monitoring
+          
+          Waktu: Maksimal 7 hari kerja setelah laporan final
+          Penanggung Jawab: Sekretariat Unit
+
+5.4 TAHAP MONITORING DAN EVALUASI
+
+    5.4.1 Monitoring Tindak Lanjut
+          a. Memantau pelaksanaan rekomendasi oleh terlapor
+          b. Meminta laporan berkala tentang progress tindak lanjut
+          c. Melakukan verifikasi atas tindak lanjut yang dilaporkan
+          d. Memberikan asistensi jika diperlukan
+          
+          Waktu: 60 hari sejak rekomendasi disampaikan (dapat diperpanjang)
+          Penanggung Jawab: Tim Monitoring
+    
+    5.4.2 Evaluasi Proses
+          a. Mengevaluasi efektivitas proses penerimaan
+          b. Mengidentifikasi hambatan dan kendala
+          c. Merumuskan perbaikan untuk peningkatan kualitas
+          d. Mendokumentasikan lesson learned
+          
+          Waktu: Setiap 6 bulan
+          Penanggung Jawab: Koordinator Unit
+
+=============================================================================
+6. INDIKATOR KINERJA
+=============================================================================
+
+6.1 Waktu Penyelesaian
+    - Target: 90% kasus selesai dalam waktu yang ditetapkan
+    - Pengukuran: Persentase kasus yang selesai tepat waktu
+
+6.2 Kualitas Laporan
+    - Target: 95% laporan tidak ada revisi substansial
+    - Pengukuran: Persentase laporan yang langsung diterima tanpa revisi major
+
+6.3 Tingkat Kepuasan
+    - Target: Indeks kepuasan pelapor minimal 80
+    - Pengukuran: Survey kepuasan pelapor
+
+6.4 Tindak Lanjut Rekomendasi
+    - Target: 80% rekomendasi ditindaklanjuti
+    - Pengukuran: Persentase rekomendasi yang diimplementasikan
+
+=============================================================================
+7. PENANGGUNG JAWAB DAN DISTRIBUSI
+=============================================================================
+
+Penanggung Jawab Umum: Kepala Kantor Perwakilan/Asisten Ombudsman
+
+Pihak yang Menerima SOP:
+- Seluruh unit kerja terkait di Ombudsman RI
+- Kantor perwakilan Ombudsman di daerah
+- Stakeholder eksternal yang relevan
+
+=============================================================================
+8. LAMPIRAN
+=============================================================================
+
+Lampiran 1: Formulir Penerimaan Pengaduan (Form OMB-01)
+Lampiran 2: Checklist Verifikasi Dokumen (Form OMB-02)
+Lampiran 3: Berita Acara Investigasi (Form OMB-03)
+Lampiran 4: Template Laporan Hasil Investigasi
+Lampiran 5: Flowchart Proses Penerimaan Pengaduan Masyarakat
+
+=============================================================================
+
+Disetujui oleh:
+
+[Jabatan]                           [Jabatan]
+[Nama]                              [Nama]
+Tanggal: ___________                Tanggal: ___________
+
+=============================================================================
